@@ -21,7 +21,7 @@ class Game:
     Use the information returned from .loop() to determine when to end the game by calling
     .reset().
     """
-    SCORE_FONT = pygame.font.SysFont("comicsans", 50)
+    SCORE_FONT = pygame.font.SysFont("Times New Roman", 55)
     WHITE = (255, 255, 255)
     BLACK = (0, 0, 0)
     RED = (255, 0, 0)
